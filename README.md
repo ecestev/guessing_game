@@ -1,6 +1,8 @@
 # guessing_game
 
-My first rust application. Built using cargo.
+My first rust application. 
+
+Built using cargo.
 
 This repo contains a guessing game where the player must guess a randomly generated number. 
 
